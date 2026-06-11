@@ -1,0 +1,8 @@
+ID_Venda,ID_Cliente,Produto,Quantidade,Valor_Unitario,Valor_Total
+1,101,Notebook,1,3500.00,3500.00
+2,102,Mouse,2,50.00,100.00
+3,101,Teclado,1,150.00,150.00
+4,103,Monitor,1,1200.00,1200.00
+5,102,Notebook,1,3500.00,3500.00
+6,104,Fone de Ouvido,3,80.00,240.00
+7,105,Mouse,1,50.00,50.00
